@@ -1,0 +1,7 @@
+{
+    "RESEARCH_AREAS_ABB":"ai&vision&mlmining&nlp&ir&arch&comm&sec&mod&hpc&mobile&metrics&ops&plan&act&crypt&log&graph&chi&robotics&bio&da&bed&visualization&ecom&visualization",
+    "RESEARCH_AREAS": "Artificial intelligence\nComputer vision\nMachine learning & data mining\nNatural language processing\nThe Web & information retrieval\nComputer architecture\nComputer networks\nComputer security\nDatabases\nDesign automation\nEmbedded & real-time systems\nHigh-performance computing\nMobile computing\nMeasurement & perf. analysis\nOperating systems\nProgramming languages\nSoftware engineering\nAlgorithms & complexity\nCryptography\nLogic & verification\nComp. bio & bioinformatics\nComputer graphics\nEconomics & computation\nHuman-computer interaction\nRobotics\nVisualization",
+    "LOCATION_ABB":"&au&at&br&ca&cn&dk&fr&de&gr&hk&in&il&it&jp&nl&nz&kr&es&ch&tr&uk&us&world",
+    "LOCATION":"Australia\nAustria\nBrazil\nCanada\nChina\nDenmark\nFrance\nGermany\nGreece\nHongKong\nIndia\nIsrael\nItaly\nJapan\nNetherlands\nNew Zealand\nSouth Korea\nSpain\nSwitzerland\nTurkey\nUnited Kingdom','USA\nthe world",
+    "URL": "https://csrankings.org/#/index?"
+}
